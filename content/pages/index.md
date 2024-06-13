@@ -2,8 +2,8 @@
 title: Home
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
-    description: With Sendit, you can quickly create beautiful rich emails that capture a reader's attention, engage them, and convert them into customers.
+    title: Clear Effective Inward Investment marketing
+    description: Connect with Investors 24/7 and start meaningful conversations about growing together.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
