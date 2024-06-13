@@ -1,5 +1,5 @@
 {
-	"logo": "/images/logo.svg",
+	"logo": "https://res.cloudinary.com/clarity-strategies/image/upload/clarity-logo-static.svg",
 	"items": [
 		{
 			"link": "/",
